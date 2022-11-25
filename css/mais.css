@@ -1,0 +1,17 @@
+.mais{
+    grid-template-areas: 
+    "title-mais title-mais title-mais"
+    "onde contato redes";
+    grid-template-columns: 1fr 1fr 1fr;
+    display: grid;
+    text-align: center;
+    align-items: center;
+}
+.title-mais{
+    grid-area: title-mais;
+    font-size: 6rem;
+    margin-top: 50px;
+}
+.onde-container{
+    align-items: center;
+}

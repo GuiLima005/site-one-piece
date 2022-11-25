@@ -1,0 +1,14 @@
+.home{
+    background-image: url(../img/home.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.menu{
+    display: flex;
+    gap: 40px;
+    font-size: 1.3rem;
+}
+.title-header{
+    font-size: 5rem;
+}
