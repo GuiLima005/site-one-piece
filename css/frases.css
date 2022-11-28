@@ -4,6 +4,8 @@
     "doutor jinbei"
     "teach iceburg";
     grid-template-columns: 1fr 1fr;
+    grid-template-rows: 155px;
+
     display: grid;
     text-align: center;
 }

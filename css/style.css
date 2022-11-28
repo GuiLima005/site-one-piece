@@ -24,6 +24,12 @@ header{
 main{
     grid-area: content;
 }
+.title-header, .title-sobre, .title-protagonista, .title-filme, .title-mais, .title-frases {
+    background-image: linear-gradient(rgba(20, 3, 3, 0.116), rgb(255, 1, 1));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
 section{
     height: 100vh;
 }
@@ -33,10 +39,11 @@ footer{
     place-self: end center;
     height: 50px;
     width: 100%;
-    background-color: pink;
-    font-size: .75rem;
+    font-size: .9rem;
     text-align: center;
     align-items: center;
+    color: var(--letras-color);
+    border-top: 5px solid #C90000;
 }
 .voltar{
     position: fixed;

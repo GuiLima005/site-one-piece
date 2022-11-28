@@ -5,6 +5,7 @@
     "icones icones";
     display: grid;
     grid-template-columns: 1000px auto;
+    grid-template-rows: 160px;
 }
 .title-protagonista{
     grid-area: title-pro;

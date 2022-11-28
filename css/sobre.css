@@ -4,12 +4,18 @@
     "description-sobre capa";
     display: grid;
     grid-template-columns: 1300px 500px;
+    grid-template-rows: 165px;
+
 }
 .title-sobre{
     grid-area: title;
-    font-size: 4.5rem;
+    font-size: 5rem;
     padding-top: 50px;
     text-align: center;
+    background-image: linear-gradient(rgba(20, 3, 3, 0.116), rgb(255, 1, 1));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
 }
 .description-sobre{
     grid-area: description-sobre;
