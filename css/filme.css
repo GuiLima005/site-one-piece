@@ -10,6 +10,7 @@
     background-image: url(../img/filme.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 .title-filme{
     grid-area: title-filme;
@@ -39,4 +40,3 @@
     margin-bottom: 30px;
     color: black;
 }
-
