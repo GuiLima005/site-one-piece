@@ -9,6 +9,7 @@ body{
          "content";
     background-color: var(--desktop-color);
     color: white;
+    /*font-family: ;*/
 }
 header{
     grid-area: content;
@@ -29,6 +30,8 @@ main{
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
+    /*font-family: ;
+    font-weight: ;*/
 }
 section{
     height: 100vh;
@@ -50,10 +53,9 @@ footer{
     right: 20px;
     bottom: 20px;
     display: grid;
-    place-content: center;
     font-size: 2.5rem;
     transition: all .5s;
 }
-.voltar:hover{
+.voltar :hover{
     color: var(--letras-color);
 }

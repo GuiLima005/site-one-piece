@@ -12,3 +12,10 @@
 .title-header{
     font-size: 5rem;
 }
+.bars{
+    display: none;
+}
+.menu :hover{
+    transition: 0.5s;
+    color: var(--letras-color);
+}

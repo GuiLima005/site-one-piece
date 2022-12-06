@@ -31,14 +31,14 @@
 .botao-jogo{
     grid-area: botao-jogo;
     background-color: var(--botao-color);
-    border-radius: 35px;
+    border-radius: 100px;
     width: 270px;
     height: 100px;
     display: grid;
     justify-content: center;
     align-items: center;
     place-self: center end;
-    font-size: 1.7rem;
+    font-size: 1.8rem;
 }
 .capa-jogo{
     grid-area: capa-jo;

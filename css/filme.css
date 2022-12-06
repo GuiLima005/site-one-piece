@@ -15,9 +15,12 @@
 .title-filme{
     grid-area: title-filme;
     font-size: 4rem;
-    padding-right: 170px;
+    padding-right: 125px;
     padding-top: 50px;
     text-align: end;
+}
+.filme-tablet{
+    display: none;
 }
 .trailer{
     grid-area: trailer;
