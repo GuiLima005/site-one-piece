@@ -42,6 +42,5 @@
 }
 .capa-jogo{
     grid-area: capa-jo;
-    place-self: center;
-    
+    place-self: center;  
 }
