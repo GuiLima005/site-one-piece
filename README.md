@@ -11,7 +11,7 @@ O objetivo deste projeto é colocar em pratica os conhecimentos adquiridos no cu
 
 ---
 ## Rascunho do Figma
-- [Abri o rascunho do Figma](https://www.figma.com/file/nAviZDWVXytTMvjIP5twIL/One-Piece?node-id=0%3A1&t=xL3QXPEYY7oRC6lm-0)
+- [Acessar o rascunho do Figma](https://www.figma.com/file/nAviZDWVXytTMvjIP5twIL/One-Piece?node-id=0%3A1&t=xL3QXPEYY7oRC6lm-0)
 ---
 
 ## Tecnologias utilizadas
