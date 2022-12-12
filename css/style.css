@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 :root{
     --desktop-color: rgba(0, 0, 0, 0.92);
     --letras-color: rgba(255, 0, 0, 1);
@@ -8,7 +11,7 @@ body{
     grid-template-areas: 
          "content";
     background-color: var(--desktop-color);
-    color: white;
+    color: white;   
     /*font-family: ;*/
 }
 header{

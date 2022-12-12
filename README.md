@@ -3,7 +3,7 @@
 ![](./img/desktop.png)
 
 
-[Clique aqui](https://github.com/GuiLima005/site-one-piece/) para acessar o site.
+[Clique aqui](https://guilima005.github.io/site-one-piece/) para acessar o site.
 ---
 ## Sobre
 Site do tipo one page para divulgar informações do anime One Piece.
