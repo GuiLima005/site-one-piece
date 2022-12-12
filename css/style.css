@@ -62,3 +62,7 @@ footer{
 .voltar :hover{
     color: var(--letras-color);
 }
+.access-button{
+    border-radius: 50px;
+    border: 8px;
+}
