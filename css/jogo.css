@@ -1,5 +1,4 @@
 .jogo{
-    background-color: tomato;
     grid-template-areas: 
     "informacoes botao-jogo capa-jo";
     display: grid;
@@ -12,11 +11,11 @@
 .informacoes{
     grid-area: informacoes;
     background-color: var(--desktop-color);
-    height: 841px;
+    height: 94%;
     width: 467px;
+    gap: 5px;
     display: flex;
     flex-direction: column;
-    gap: 20px;
     place-self: center;
     text-align: center;
 }
@@ -25,8 +24,8 @@
     font-size: 2.4rem;
 }
 .description-jogo{
-    margin-top: 25px;
-    font-size: 1.3rem;
+    padding-top: 25px;
+    font-size: 1.35rem;
 }
 .botao-jogo{
     grid-area: botao-jogo;

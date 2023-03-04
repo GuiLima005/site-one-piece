@@ -3,7 +3,7 @@
     "title title"
     "description-sobre capa";
     display: grid;
-    grid-template-columns: 1300px 500px;
+    grid-template-columns: 70% 30%;
     grid-template-rows: 165px;
 
 }
@@ -21,11 +21,11 @@
     grid-area: description-sobre;
     display: flex;
     flex-direction: column;
-    gap: 100px;
+    gap: 50px;
+    padding-left: 25px;
     font-size: 2rem;
     text-align: center;
-    justify-items: center;
-    padding: 150px;
+    justify-content: center;
 }
 .capa-manga{
     grid-area: capa;

@@ -4,7 +4,7 @@
     "description-protagonista luffy"
     "icones icones";
     display: grid;
-    grid-template-columns: 1000px auto;
+    grid-template-columns: 70% 30%;
     grid-template-rows: 160px;
 }
 .title-protagonista{
@@ -16,18 +16,19 @@
 .luffy{
     grid-area: luffy;
     place-self: center;
+    height: 350px;
 }
 .description-protagonista{
     grid-area: description-protagonista;
+    padding-left: 120px;
     display: flex;
     text-align: center;
     place-self: center;
-    padding-left: 270px;
+    justify-content: center;
     font-size: 2rem;
 }
 .icones{
     grid-area: icones;
     justify-content: center;
-    padding-left: 270px;
-
+    place-self: center;
 }

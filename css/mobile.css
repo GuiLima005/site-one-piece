@@ -51,6 +51,16 @@ header{
     background-image: url(../img/fundo-tablet.png);
     background-size: 100% 50%;
 }
+.title-jogo{
+    font-size: 1.2rem;
+}
+.description-jogo{
+    font-size: 1rem;
+}
+.informacoes {
+    max-width: 300px;
+    height: 600px;
+}
 .capa-jogo{
     padding-left: 60px;
 }
